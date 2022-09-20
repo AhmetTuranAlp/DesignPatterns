@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "AbstractFactoryPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AbstractFactoryPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractFactoryPattern.dll": {}
+        }
+      },
+      "FactoryMethodPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/FactoryMethodPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryMethodPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryPattern/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFactoryPattern/AbstractFactoryPattern.csproj",
+      "msbuildProject": "../AbstractFactoryPattern/AbstractFactoryPattern.csproj"
+    },
+    "FactoryMethodPattern/1.0.0": {
+      "type": "project",
+      "path": "../FactoryMethodPattern/FactoryMethodPattern.csproj",
+      "msbuildProject": "../FactoryMethodPattern/FactoryMethodPattern.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "AbstractFactoryPattern >= 1.0.0",
+      "FactoryMethodPattern >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Github\\DesignPatterns\\RunDesignPattern\\RunDesignPattern.csproj",
+      "projectName": "RunDesignPattern",
+      "projectPath": "D:\\Github\\DesignPatterns\\RunDesignPattern\\RunDesignPattern.csproj",
+      "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\DesignPatterns\\RunDesignPattern\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\GLB90090540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Github\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj": {
+              "projectPath": "D:\\Github\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj"
+            },
+            "D:\\Github\\DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj": {
+              "projectPath": "D:\\Github\\DesignPatterns\\FactoryMethodPattern\\FactoryMethodPattern.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

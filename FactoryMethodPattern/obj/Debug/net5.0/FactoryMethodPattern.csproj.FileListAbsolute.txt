@@ -1,0 +1,12 @@
+D:\Github\DesignPatterns\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.deps.json
+D:\Github\DesignPatterns\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.dll
+D:\Github\DesignPatterns\FactoryMethodPattern\bin\Debug\net5.0\ref\FactoryMethodPattern.dll
+D:\Github\DesignPatterns\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.pdb
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.AssemblyReference.cache
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfo.cs
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.dll
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\ref\FactoryMethodPattern.dll
+D:\Github\DesignPatterns\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.pdb
